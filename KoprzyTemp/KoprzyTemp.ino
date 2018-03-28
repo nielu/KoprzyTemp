@@ -4,7 +4,9 @@
  Author:	janni
 */
 
-// the setup function runs once when you press reset or power the board
+#include <ESP8266WiFi.h>
+#include <WiFiManager.h>
+#include <ThingSpeak.h>
 void setup() {
 
 }
